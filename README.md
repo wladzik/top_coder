@@ -1,2 +1,1 @@
-# top_coder
-Projects from top coder
+# Challenges from topcoder.com
